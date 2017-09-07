@@ -1,1 +1,1 @@
-# Exerc-cio-PHP---Wrap-Galo-
+# Exercicio-PHP---Wrap-Galoa
